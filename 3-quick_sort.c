@@ -22,7 +22,7 @@ void quick_sort(int *array, size_t size)
  * @low: first index
  * @high: last index
  * @size: size of the array
- * Returns: The index of the pivot element after partitioning
+ * Return: The index of the pivot element after partitioning
  */
 
 int partition_array(int *array, int low, int high, size_t size)
